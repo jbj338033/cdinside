@@ -35,3 +35,12 @@ out/
 
 ### VS Code ###
 .vscode/
+
+# Reports
+보고서_*.md
+
+# Test scripts  
+test-api.sh
+
+# H2 Database files
+data/
